@@ -1,22 +1,16 @@
 :root{
-    --wite-text;  rgba(255, 255, 255, 1);
+  --black-text: rgba(47, 48, 58, 1);
 
-    --black-text; rgba(47, 48, 58, 1);
+  --blue-text: rgba(33, 150, 243, 1);
 
-    --blue-text; rgba(33, 150, 243, 1);
+  --wite-text: rgba(245, 244, 250, 1);
 
-    --wite-text; rgba(245, 244, 250, 1);
+  --back-light-wite: #E5E5E5;
 
-    --back-light-wite; #E5E5E5;
+ --grey: rgba(33, 33, 33, 1);
 
-   --grey; rgba(33, 33, 33, 1);
+ --grey-text: rgba(117, 117, 117, 1);
 
-   --wite-text;opacity: 60; rgba(255, 255, 255, 0.6)
-
-   --grey-text; rgba(245, 244, 250, 1);
-
-   --grey-text; rgba(117, 117, 117, 1);
-
-  --back-ligt-wite; #FFFFFF;
+--back-ligt-wite: #FFFFFF;
 
 }
