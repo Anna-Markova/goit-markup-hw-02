@@ -21,10 +21,10 @@ ul{
     list-style: none;
 }
 .header{
-    background-color:  #FFFFFF;  
+    background-color: #FFFFFF;  
 }
 .title-logo{
-        font-family:"Raleway";sans-serif
+        font-family: "Raleway", sans-serif;
         font-style: normal;
         font-weight: bold;
         font-size: 26px;
@@ -33,7 +33,7 @@ ul{
     }
 .logo-web{
         color: #2196F3;
-        font-family:"Raleway";sans-serif
+        font-family: "Raleway", sans-serif;
         font-style: normal;
         font-weight: bold;
         font-size: 26px;
@@ -41,14 +41,14 @@ ul{
         text-align: center;
     }
 .link{
-    font-family: "Roboto";sans-serif
+    font-family: "Roboto", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
     line-height: 1.15;
     letter-spacing: 0.02em; 
     color:rgba(33, 150, 243, 1);
-    font-weight: 77px;
+    font-weight: 77;
     line-height: 16px;
     margin-left: 552px;
     margin-top: 32px;
@@ -58,11 +58,10 @@ ul{
 }
 .contacts{
     color: rgba(33, 33, 33, 1);
-    rgba(33, 33, 33, 1);
 }
 .item{
     margin-top: 122px;
-    font-family: "Roboto";sans-serif
+    font-family: "Roboto", sans-serif;
     margin-left: 1078px;
     font-style: normal;
     font-weight: 500;
@@ -73,12 +72,12 @@ ul{
 .hero{
     color: #E5E5E5;
     text-align: center;
-    font-weight: 700;
+    font-weight:700;
     font-size: 16px;
     line-height: 1.88;
-    font-family: "Roboto";sans-serif
+    font-family: "Roboto", sans-serif;
     letter-spacing: 0.06em;
-    margin-left: auto;
+    margin-left:auto;
     margin-right: auto; 
 }
 .hero-btn{
@@ -89,7 +88,7 @@ ul{
     font-size: 16px;
     line-height: 1.88;
     border: none;
-    font-family: "Roboto";sans-serif
+    font-family: "Roboto", sans-serif;
     letter-spacing: 0.06em;
     margin-left: auto;
     margin-right: auto;
@@ -99,7 +98,7 @@ ul{
 }
 .hero-text-color {
         text-align: center;
-        font-family: "Roboto";sans-serif
+        font-family: "Roboto", sans-serif;
         color:  #FFFFFF;
 }
 .active{
@@ -109,7 +108,7 @@ ul{
         background-color:  #E5E5E5;;
   }
 .sidebar-title{
-        font-family: "Roboto";sans-serif
+        font-family: "Roboto", sans-serif;
         font-style: normal;
         font-size: 36px;
         line-height: 42px;
@@ -124,7 +123,7 @@ ul{
 .aline-png{
         margin: left 215px;
         margin-top: 92px;
-        width: 370px;
+        font-weight: 370;
         height: 294px;
         left: 1015px;
         top: 1061px;
@@ -134,17 +133,17 @@ ul{
         top: 1061px;
 }
 .comander-title{
-        font-family: "Roboto";sans-serif
+        font-family: "Roboto", sans-serif;
         text-align: center;
-        font-weight: 264px;
+        font-weight: 264;
         line-height: 42px;
-        margin-left:150px;
+        margin-left: 150px;
         margin-top: 94px;
         margin-bottom: 50px;
 }
     
 .modern {
-        font-weight: 1600px;
+        font-weight: 1600;
         line-height: 42px;
         margin-left:215px;
         margin-top: 108px;
@@ -155,9 +154,9 @@ ul{
         background-color: #2F303A;
 }
 .contacts-web{
-        font-family: "Raleway";sans-serif
+        font-family: "Raleway", sans-serif;
         font-style: normal;
-        font-weight: 145px;;
+        font-weight: 145;
         font-size: 26px;
         line-height: 31px;
         letter-spacing: 0.03em;
@@ -166,9 +165,6 @@ ul{
         margin-top: 20px;
         margin-right: 1240px;
  }
-
-
-
 .like{
         border: none;
 }
@@ -180,12 +176,11 @@ ul{
         background-color:#E5E5E5;
         margin-left: 215px;
         margin-right: 215px;
-        margin-top 346px;
+        margin-top: 346px;
         margin-bottom: 174px;
         text-align: center;
 }
-.mainly-btn{
-            
+.mainly-btn{          
             border: none;
 }
     
