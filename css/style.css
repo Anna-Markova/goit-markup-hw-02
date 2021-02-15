@@ -21,21 +21,8 @@ ul{
     list-style: none;
 }
 .header{
-    background-color:  #FFFFFF;
-    
+    background-color:  #FFFFFF;  
 }
-
-.main{
-        text-align: left;
-        padding-bottom: 50px;
-        font-family: "Roboto";sans-serif
-        background-color: #2F303A;
-        margin-top: 376px;
-        font-size: 36px;
-        font-weight: 700px;
-        color:   #212121
-     
-    }   
 .title-logo{
         font-family:"Raleway";sans-serif
         font-style: normal;
@@ -53,7 +40,6 @@ ul{
         line-height: 31px;
         text-align: center;
     }
-    }
 .link{
     font-family: "Roboto";sans-serif
     font-style: normal;
@@ -66,11 +52,9 @@ ul{
     line-height: 16px;
     margin-left: 552px;
     margin-top: 32px;
-    }
+}
 .link-current{
     color: rgba(33, 150, 243, 1);
-    }
-
 }
 .contacts{
     color: rgba(33, 33, 33, 1);
@@ -136,7 +120,7 @@ ul{
         margin-left: 612px;
         margin-top: 0px;
         color: #212121;
-        }
+}
 .aline-png{
         margin: left 215px;
         margin-top: 92px;
@@ -148,7 +132,7 @@ ul{
         height: 294px;
         left: 1015px;
         top: 1061px;
-    }
+}
 .comander-title{
         font-family: "Roboto";sans-serif
         text-align: center;
@@ -157,7 +141,7 @@ ul{
         margin-left:150px;
         margin-top: 94px;
         margin-bottom: 50px;
-    }
+}
     
 .modern {
         font-weight: 1600px;
@@ -166,10 +150,10 @@ ul{
         margin-top: 108px;
         margin-bottom: 186px;  
         background-color:#FFFFFF;
-    }
+}
 .contacts{
         background-color: #2F303A;
-    }
+}
 .contacts-web{
         font-family: "Raleway";sans-serif
         font-style: normal;
@@ -181,32 +165,35 @@ ul{
         margin-left: 215px;
         margin-top: 20px;
         margin-right: 1240px;
-    }
-    .like{
-        border: none;
-    }
-    .like-btn{
-    background-color:rgba(33, 150, 243, 1);
-    }
+ }
 
-    .mainly{
+
+
+.like{
+        border: none;
+}
+.like-btn{
+    background-color:rgba(33, 150, 243, 1);
+}
+
+.mainly{
         background-color:#E5E5E5;
         margin-left: 215px;
         margin-right: 215px;
         margin-top 346px;
         margin-bottom: 174px;
         text-align: center;
-    }
-        .mainly-btn{
+}
+.mainly-btn{
             
             border: none;
-        }
-    }
-    .title-smart{
+}
+    
+.title-smart{
         background: #2F303A;
         margin-left: 174px;
         margin-right: auto;
-    }
+}
 
     
 
