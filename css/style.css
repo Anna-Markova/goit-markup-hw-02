@@ -17,35 +17,45 @@
   --back-ligt-wite: #FFFFFF;
 
 }
-    ul{
+ul{
     list-style: none;
 }
-   .header{
+.header{
     background-color:  #FFFFFF;
     
 }
 
-    .main{
+.main{
         text-align: left;
         padding-bottom: 50px;
-        font-family: "Roboto";sans-serif;
+        font-family: "Roboto";sans-serif
         background-color: #2F303A;
         margin-top: 376px;
         font-size: 36px;
         font-weight: 700px;
-        color: #212121
+        color:   #212121
      
     }   
-    .title-logo{
-        font-family:"Raleway";sans-serif;
+.title-logo{
+        font-family:"Raleway";sans-serif
         font-style: normal;
         font-weight: bold;
         font-size: 26px;
         line-height: 31px;
         text-align: center;
     }
-.site-nav{
-    font-family: "Roboto";sans-serif;
+.logo-web{
+        color: #2196F3;
+        font-family:"Raleway";sans-serif
+        font-style: normal;
+        font-weight: bold;
+        font-size: 26px;
+        line-height: 31px;
+        text-align: center;
+    }
+    }
+.link{
+    font-family: "Roboto";sans-serif
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
@@ -56,6 +66,10 @@
     line-height: 16px;
     margin-left: 552px;
     margin-top: 32px;
+    }
+.link-current{
+    color: rgba(33, 150, 243, 1);
+    }
 
 }
 .contacts{
@@ -64,13 +78,24 @@
 }
 .item{
     margin-top: 122px;
-    font-family: "Roboto";sans-serif;
+    font-family: "Roboto";sans-serif
     margin-left: 1078px;
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;
     letter-spacing: 0.02em;  
+}
+.hero{
+    color: #E5E5E5;
+    text-align: center;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.88;
+    font-family: "Roboto";sans-serif
+    letter-spacing: 0.06em;
+    margin-left: auto;
+    margin-right: auto; 
 }
 .hero-btn{
     color: #E5E5E5;
@@ -80,28 +105,27 @@
     font-size: 16px;
     line-height: 1.88;
     border: none;
-    text-align: center;
-    font-family: "Roboto";sans-serif;
+    font-family: "Roboto";sans-serif
     letter-spacing: 0.06em;
     margin-left: auto;
     margin-right: auto;
 }
 .hero{
-    background-color:  #2F303A;;
+    background-color:  #2F303A;
 }
 .hero-text-color {
-    text-align: center;
-    font-family: "Roboto";sans-serif;
-    color:  #FFFFFF;
+        text-align: center;
+        font-family: "Roboto";sans-serif
+        color:  #FFFFFF;
 }
 .active{
-    background-color:#E5E5E5;
+        background-color:#E5E5E5;
   }
-  .sidebar{
-      background-color:  #E5E5E5;;
+.sidebar{
+        background-color:  #E5E5E5;;
   }
 .sidebar-title{
-        font-family: "Roboto";sans-serif;
+        font-family: "Roboto";sans-serif
         font-style: normal;
         font-size: 36px;
         line-height: 42px;
@@ -114,25 +138,25 @@
         color: #212121;
         }
 .aline-png{
-    margin: left 215px;
-    margin-top: 92px;
-    width: 370px;
-    height: 294px;
-    left: 1015px;
-    top: 1061px;
-    width: 370px;
-    height: 294px;
-    left: 1015px;
-    top: 1061px;
-  }
+        margin: left 215px;
+        margin-top: 92px;
+        width: 370px;
+        height: 294px;
+        left: 1015px;
+        top: 1061px;
+        width: 370px;
+        height: 294px;
+        left: 1015px;
+        top: 1061px;
+    }
 .comander-title{
-    font-family: "Roboto";sans-serif;
-    text-align: center;
-    font-weight: 264px;
-    line-height: 42px;
-    margin-left:150px;
-    margin-top: 94px;
-    margin-bottom: 50px;
+        font-family: "Roboto";sans-serif
+        text-align: center;
+        font-weight: 264px;
+        line-height: 42px;
+        margin-left:150px;
+        margin-top: 94px;
+        margin-bottom: 50px;
     }
     
 .modern {
@@ -147,7 +171,7 @@
         background-color: #2F303A;
     }
 .contacts-web{
-        font-family: "Raleway";sans-serif;
+        font-family: "Raleway";sans-serif
         font-style: normal;
         font-weight: 145px;;
         font-size: 26px;
@@ -158,17 +182,31 @@
         margin-top: 20px;
         margin-right: 1240px;
     }
-.title-smart{
-        font-weight:231px;
-        height: 21px;
-        margin-left: 215px;
-        font-family: "Roboto";sans-serif;
-        font-style: normal;
-        font-weight: normal;
-        font-size: 14px;
-        line-height: 24px;
-        letter-spacing: 0.03em;
-        color: #FFFFFF;
+    .like{
+        border: none;
     }
+    .like-btn{
+    background-color:rgba(33, 150, 243, 1);
+    }
+
+    .mainly{
+        background-color:#E5E5E5;
+        margin-left: 215px;
+        margin-right: 215px;
+        margin-top 346px;
+        margin-bottom: 174px;
+        text-align: center;
+    }
+        .mainly-btn{
+            
+            border: none;
+        }
+    }
+    .title-smart{
+        background: #2F303A;
+        margin-left: 174px;
+        margin-right: auto;
+    }
+
     
 
