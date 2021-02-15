@@ -17,11 +17,16 @@
   --back-ligt-wite: #FFFFFF;
 
 }
+
 ul{
     list-style: none;
 }
 .header{
     background-color: #FFFFFF;  
+}
+.site-nav .link:hover,
+.site-nav .link:focus{
+color: var  rgba(33, 150, 243, 1)
 }
 .title-logo{
         font-family: "Raleway", sans-serif;
